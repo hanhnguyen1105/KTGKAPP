@@ -1,4 +1,4 @@
-# Restaurant App
+# GIUAKYAPP
 
 Ứng dụng quản lý nhà hàng viết bằng React Native CLI, gồm thực đơn, sơ đồ 10
 bàn, gọi món và thanh toán hoá đơn.
